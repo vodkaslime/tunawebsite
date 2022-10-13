@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="90.737038mm"
+   height="42.606812mm"
+   viewBox="0 0 90.737038 42.606812"
+   version="1.1"
+   id="svg19964"
+   inkscape:version="1.2.1 (0f2f062aeb, 2022-09-21, custom)"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="../eb6451dc/logo.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview19966"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.99276681"
+     inkscape:cx="74.539156"
+     inkscape:cy="89.144801"
+     inkscape:window-width="3440"
+     inkscape:window-height="1376"
+     inkscape:window-x="1920"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs19961" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-41.054457,-84.619643)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#a7c2ff;fill-opacity:0.529832;stroke-width:0.264583"
+       x="42.257122"
+       y="109.01477"
+       id="text20022"><tspan
+         sodipodi:role="line"
+         id="tspan20020"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:19.7556px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;opacity:0;fill:#0b1562;fill-opacity:1;stroke-width:0.264583"
+         x="42.257122"
+         y="109.01477">tuna</tspan></text>
+    <rect
+       style="opacity:0;fill:#fc28bd;fill-opacity:1;stroke-width:0.264583"
+       id="rect20822"
+       width="135.47194"
+       height="46.57489"
+       x="16.351912"
+       y="77.114349" />
+    <rect
+       style="opacity:0;fill:#fc28bd;fill-opacity:1;stroke-width:0.264583"
+       id="rect20824"
+       width="150.52461"
+       height="58.676159"
+       x="22.075653"
+       y="78.055466" />
+    <rect
+       style="opacity:0;fill:#fc28bd;fill-opacity:1;stroke-width:0.264583"
+       id="rect20826"
+       width="103.08564"
+       height="28.567694"
+       x="33.109837"
+       y="87.950729" />
+  </g>
+</svg>

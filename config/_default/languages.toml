@@ -1,0 +1,29 @@
+############################# English ############################
+[en]
+languageName = "En"
+title = "tuna"
+contentDir = "content/english" # content/english
+weight = 1
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_middle = "Product"
+footer_menu_right = "Support"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+# copyright
+copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+
+
+
+############################# 简体中文 ############################
+[zh-cn]
+languageName = "简体中文"
+title = "tuna"
+contentDir = "content/chinese" # content/chinese
+weight = 2
+########### footer content ##########
+footer_menu_left = "公司"
+footer_menu_middle = "产品"
+footer_menu_right = "支持"
+footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+# copyright
+copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
