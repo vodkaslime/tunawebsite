@@ -35,7 +35,7 @@ service:
     # service item loop
     - title : "One-stop access manager"
       images:
-      - "images/olap.png"
+      - "images/tuna_arch.png"
       content : "Some databases have RBAC built in and some not. You need to individually configure on all engines you deploy, which add ops cost to your team. With tuna as a centralized RBAC access manager, you enjoy consistent access control experience on all of your databases, as long as they are MySQL compatible."
       button:
         enable : false
@@ -45,8 +45,8 @@ service:
     # service item loop
     - title : "Versatile compatibility with MySQL protocol"
       images:
-      - "images/olap.png"
-      content : "Compatible with MySQL wire protocol, tuna supports all MySQL-compatible databases. MySQL, ClickHouse, Spanner, TiDB, SingleStore, etc. All of them could be abstracted into entry point on tuna, and tuna provides RBAC access control to all of them."
+      - "images/compatibility.png"
+      content : "Compatible with MySQL wire protocol, tuna supports all MySQL-compatible databases. MySQL, MariaDB, ClickHouse, Spanner, TiDB, etc. All of them could be abstracted into entry point on tuna, and tuna provides RBAC access control to all of them."
       button:
         enable : false
         label : "Check it out"
@@ -57,7 +57,7 @@ service:
 call_to_action:
   enable : true
   title : "Ready to get started?"
-  image : "images/rocket.png"
+  image : "images/start.png"
   content : "Start now with tuna service."
   button:
     enable : true
