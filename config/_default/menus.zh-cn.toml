@@ -7,7 +7,7 @@ weight = 1
 [[main]]
 name = "联系"
 url = "contact/"
-weight = 4
+weight = 2
 
 [[main]]
 name = "FAQ"
@@ -19,36 +19,10 @@ weight = 5
 name = "关于我们"
 url = "#"
 
-[[footer_left]]
-name = "快速开始"
-url = "#"
-
-[[footer_left]]
-name = "定价"
-url = "pricing/"
-
-
 # footer menu middle
-[[footer_middle]]
-name = "定价"
-url = "pricing/"
-
-[[footer_middle]]
-name = "平台"
-url = "#"
-
 [[footer_middle]]
 name = "功能"
 url = "#"
-
-# footer menu right
-[[footer_right]]
-name = "隐私协议"
-url = "privacy-policy/"
-
-[[footer_right]]
-name = "Terms & Conditions"
-url = "terms-conditions/"
 
 [[footer_right]]
 name = "FAQ"

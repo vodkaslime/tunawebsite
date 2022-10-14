@@ -1,15 +1,14 @@
 ---
-title: "Kontakt"
+title: "联系方式"
 subtitle: ""
 # meta description
-description: "Dies ist die Metabeschreibung"
+description: "tuna服务联系方式"
 draft: false
 ---
 
 
-### Warum Sie uns kontaktieren sollten!
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit recusandae voluptates doloremque veniam temporibus porro culpa ipsa, nisi soluta minima saepe laboriosam debitis nesciunt.
+### tuna服务联系方式
+如果你希望试用tuna服务，或想要咨询tuna服务相关问题，或希望参与tuna的开发，欢迎通过一下方式进行联系。
 
-* **Phone: +88 125 256 452** 
-* **Mail: info@bigspring.com**
-* **Address: 360 Main rd, Rio, Brazil**
+* **Email: tunalabs@outlook.com**
+* **github: https://github.com/vodkaslime/tuna**

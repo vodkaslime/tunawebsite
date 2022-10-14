@@ -8,9 +8,9 @@ weight = 1
 footer_menu_left = "Company"
 footer_menu_middle = "Product"
 footer_menu_right = "Support"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "Tuna is envisioned to provide stable and reliable database access management service to global customers."
 # copyright
-copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright by tuna team"
 
 
 
@@ -24,6 +24,6 @@ weight = 2
 footer_menu_left = "公司"
 footer_menu_middle = "产品"
 footer_menu_right = "支持"
-footer_content = "Lorem ipsum dolor sit amet, consectetur elit. Consjat tristique eget amet, tempus eu at cttur."
+footer_content = "Tuna致力于为全球用户提供稳定可靠的数据库权限管理服务"
 # copyright
-copyright = "Design von [Themefisher](https://themefisher.com/) Entwickelt von [Gethugothemes](https://gethugothemes.com/)"
+copyright = "知识产权由tuna团队所有"
