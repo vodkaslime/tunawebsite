@@ -7,8 +7,8 @@ draft: false
 ---
 
 
-{{< faq "Is tuna engine open source?" >}}
-Yes, tuna engine is open source.
+{{< faq "What type of wire protocol does tuna support?" >}}
+Tuna supports MySQL wire protocol, so you can connect to tuna with MySQL drivers.
 {{</ faq >}}
 
 {{< faq "Where is tuna cloud service available?" >}}

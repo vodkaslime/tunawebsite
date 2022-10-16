@@ -6,8 +6,8 @@ description: "FAQ"
 draft: false
 ---
 
-{{< faq "tuna引擎是开源的吗?" >}}
-是的，tuna引擎是开源的。
+{{< faq "tuna支持什么连接协议？" >}}
+tuna支持MySQL连接协议，所以你可以使用MySQL的连接方式来连接tuna。
 {{</ faq >}}
 
 {{< faq "tuna云服务在哪些地方可用?" >}}
