@@ -25,11 +25,11 @@ button = "I Accept"
   
 ############################# social site ########################
 [[social]]
-title = "facebook"
+title = "linkedin"
 icon = "fab fa-linkedin" # themify icon : https://themify.me/themify-icons
 link = "https://www.linkedin.com/in/jiachenbai"
 
 [[social]]
-title = "linkedin"
-icon = "fab fa-github" # themify icon : https://themify.me/themify-icons
-link = "https://github.com/vodkaslime/tuna"
+title = "cloud dashboard"
+icon = "fas fa-user" # themify icon : https://themify.me/themify-icons
+link = "http://dashboard.tuna-cloud.com"

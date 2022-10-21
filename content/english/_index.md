@@ -6,7 +6,7 @@ banner:
   button:
     enable : true
     label : "Get Started"
-    link : "contact/"
+    link : "http://dashboard.tuna-cloud.com"
 
 ##################### Feature ##########################
 feature:
@@ -62,5 +62,5 @@ call_to_action:
   button:
     enable : true
     label : "Get Started"
-    link : "contact/"
+    link : "http://dashboard.tuna-cloud.com"
 ---

@@ -6,7 +6,7 @@ banner:
   button:
     enable : true
     label : "现在试用"
-    link : "https://www.github.com"
+    link : "http://dashboard.tuna-cloud.com"
 
 ##################### Feature ##########################
 feature:
@@ -54,5 +54,5 @@ call_to_action:
   button:
     enable : true
     label : "现在试用"
-    link : "contact/"
+    link : "http://dashboard.tuna-cloud.com"
 ---
